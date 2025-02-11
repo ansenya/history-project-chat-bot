@@ -1,0 +1,4 @@
+qdrant-client
+torch
+sentence-transformers
+python-telegram-bot
